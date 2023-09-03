@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.cargo.target": "./i586-rust_dos.json",
+    "rust-analyzer.check.allTargets": false
+}

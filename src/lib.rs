@@ -4,8 +4,8 @@
 #[macro_use]
 pub mod dos;
 pub mod dpkey;
-extern crate rlibc;
 extern crate alloc;
+extern crate rlibc;
 
 use crate::dos::allocator::GLOBAL_ALLOCATOR;
 use crate::dos::cooperative_multitasking::TASKING;
